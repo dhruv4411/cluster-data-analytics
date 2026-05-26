@@ -133,6 +133,36 @@ reports/screenshots/
 
 These screenshots can be used in the final project report and presentation.
 
+### Overview Page
+
+The overview page summarizes the simulated data center state, including server count, average CPU usage, average power usage, and average temperature. It also shows high-level charts for power trends and CPU-power relationship.
+
+![Dashboard overview](reports/screenshots/Screenshot%202026-05-26%20143855.png)
+
+### Prediction Page
+
+The prediction page allows users to adjust workload and cooling inputs, then view predicted power consumption, predicted temperature, and thermal status.
+
+![Prediction page](reports/screenshots/Screenshot%202026-05-26%20143904.png)
+
+### Scheduler Page
+
+The scheduler page displays optimized task allocation results, estimated power usage, estimated temperature, and the assigned server for each scheduled task.
+
+![Scheduler page](reports/screenshots/Screenshot%202026-05-26%20143914.png)
+
+### Alerts Page
+
+The alerts page highlights warning and critical thermal records so that reliability risks can be identified quickly.
+
+![Alerts page](reports/screenshots/Screenshot%202026-05-26%20143923.png)
+
+### Dataset Page
+
+The dataset page shows the working sample dataset used for model training, prediction, scheduling, and dashboard visualization.
+
+![Dataset page](reports/screenshots/Screenshot%202026-05-26%20143930.png)
+
 ## Current Results
 
 Energy prediction:
