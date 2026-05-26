@@ -123,6 +123,16 @@ Then open the local Streamlit URL, usually:
 http://localhost:8501
 ```
 
+## Dashboard Screenshots
+
+Dashboard screenshots are stored in:
+
+```text
+reports/screenshots/
+```
+
+These screenshots can be used in the final project report and presentation.
+
 ## Current Results
 
 Energy prediction:
