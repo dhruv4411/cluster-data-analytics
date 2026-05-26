@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.conda/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large raw datasets
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/google_cluster/
+!data/raw/google_power/
+!data/raw/alibaba_cluster/
+!data/raw/weather/
+data/raw/google_cluster/*
+data/raw/google_power/*
+data/raw/alibaba_cluster/*
+data/raw/weather/*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
